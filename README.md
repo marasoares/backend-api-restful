@@ -100,6 +100,7 @@ Para cada categoria de livros, utilizamos o mesmo modelo de dados a serem inseri
 - `DELETE/policiais/delete/:id`
 
 
+Deploy do Frontend no Heroku: https://front-api-restful.herokuapp.com/
 
 **Projeto Final - Módulo 3 - Blue Edtech**
 
